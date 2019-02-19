@@ -11,7 +11,7 @@
     ],
     "autoload": {
     "psr-4": {
-        "RootStripe\\": "src/stripe/init.php"
+        "42works\\stripe\\": "src/"
         }
     },
     "require": {}
