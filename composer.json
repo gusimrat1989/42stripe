@@ -1,0 +1,18 @@
+{
+    "name": "42works/stripe",
+    "description": "A plugin for stripe functionality",
+    "type": "Payment Gateway",
+    "license": "GPLv2",
+    "authors": [
+        {
+            "name": "Gursimrat Singh",
+            "email": "gursimrat@42works.com"
+        }
+    ],
+    "autoload": {
+    "psr-4": {
+        "RootStripe\\": "src/stripe/init.php"
+        }
+    },
+    "require": {}
+}
