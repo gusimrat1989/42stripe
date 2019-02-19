@@ -9,7 +9,6 @@
             "email": "gursimrat@42works.com"
         }
     ],
-    "minimum-stability": "dev",
     "autoload": {
     "psr-4": {
         "RootStripe\\": "src/stripe/init.php"
