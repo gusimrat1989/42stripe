@@ -1,8 +1,8 @@
 {
     "name": "42works/stripe",
     "description": "A plugin for stripe functionality",
-    "type": "Payment Gateway",
-    "license": "GPLv2",
+    "type": "PaymentGateway1",
+    "license": "proprietary",
     "authors": [
         {
             "name": "Gursimrat Singh",
