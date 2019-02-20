@@ -1,6 +1,6 @@
 {
     "name": "42works/stripe",
-    "description": "A plugin for stripe functionality",
+    "description": "A plugin for stripe functionality v1.0.2",
     "type": "PaymentGateway1",
     "license": "proprietary",
     "authors": [
