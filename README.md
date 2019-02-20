@@ -4,6 +4,8 @@
 
 ### Installing
 
+Create packages folder in your root of laravel and put this 42works folder in it
+
 Add below code in your config file
 
 ```
